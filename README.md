@@ -3,7 +3,7 @@
 Structured
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2778306325929120/2613477335069558/5386991327426378/latest.html
 Twitter
-x
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2778306325929120/2613477335069599/5386991327426378/latest.html
 
 
 # Tugas 6
