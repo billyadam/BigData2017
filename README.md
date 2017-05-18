@@ -11,7 +11,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
   
 5114100181
  Twitter Steaming : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/1739086067893852/2116223741015380/latest.html
- Structured Streaming : 
+ Structured Streaming : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/1739086067893864/2116223741015380/latest.html
 
 
 
