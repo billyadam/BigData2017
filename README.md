@@ -1,6 +1,11 @@
 # TUGAS 8 :
 5113100064 :
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2778306325929120/1006668879011992/5386991327426378/latest.html
+5114100181 :
+Graph Analysis https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/756291510375737/2116223741015380/latest.html  
+5113100047 :  
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5882470429745916/3863381790654537/6194450846702725/latest.html
+
 
 # Tugas 7
 5113100064 : 
@@ -8,6 +13,15 @@ Structured
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2778306325929120/2613477335069558/5386991327426378/latest.html
 Twitter
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2778306325929120/2613477335069599/5386991327426378/latest.html
+  
+5113100047:
+  Twitter Streaming: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5882470429745916/4194619185716131/6194450846702725/latest.html
+  Structured Streaming: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5882470429745916/2077445904992510/6194450846702725/latest.html
+  
+5114100181
+ Twitter Steaming : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/1739086067893852/2116223741015380/latest.html
+ Structured Streaming : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/1739086067893864/2116223741015380/latest.html
+
 
 
 # Tugas 6
@@ -25,4 +39,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 5113100047 Billy   
 5113100064 Budi Pangestu   
-5114100181 Anne Annissa  
+5114100181 Anne Annisa  
