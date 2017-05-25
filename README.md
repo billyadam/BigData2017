@@ -1,3 +1,7 @@
+# Tugas 8 :
+5114100181 :
+Graph Analysis https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4175330290167312/756291510375737/2116223741015380/latest.html
+
 # Tugas 7
 5113100064 : 
 Structured
